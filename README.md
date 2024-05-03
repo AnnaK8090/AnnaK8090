@@ -19,20 +19,18 @@
 
 <br />
 
-Hi, I'm Anna🙌, a Sr Data Analyst / Busness Intelligence Analyst working for a Retail Company, Tech | AI | ML Enthusiast. 
-Apart from that I love getting involved in Programming and Problem Solving.❤✌
-
+Hi, I'm Anna🙌, a Data Science Enthusiast currently working as a Sr Data Analyst / Busness Intelligence Analyst.❤✌
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" />
 
 **Talking about xyz:**
 
-- 🌱 I’m currently learning Advanced Time Series Models.
+- 🌱 I’m currently learning **Advanced Time Series Models**.
 - 👯 Part of Data Analyst, Data Scientist Community.
-- ✨ I'm a huge fan of Data Visualization!✌✌✌
+- ✨ I'm a huge fan of Data Visualization and Data Journalism!✌✌✌
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annakolb/)
-- ⚡ Check out my recent [Blogs](https://medium.com/)
-- 📝[Portfolio](https://app.powerbi.com/view?r=eyJrIjoiZjlhMTUzN2ItY2E1NS00YzI3LWI5ZGEtZTY0ZDE1NjhmZGVmIiwidCI6IjZkOTI0YTZiLWVlOGEtNGIwZi1hYjVkLTZiYzkwOGQ0MDE3YiJ9)
+- ⚡ Check out my [Data Viz Portfolio](https://app.powerbi.com/view?r=eyJrIjoiZjlhMTUzN2ItY2E1NS00YzI3LWI5ZGEtZTY0ZDE1NjhmZGVmIiwidCI6IjZkOTI0YTZiLWVlOGEtNGIwZi1hYjVkLTZiYzkwOGQ0MDE3YiJ9)
+- 📝 Fun fact about me: my all-time favorite series is The Big Bang Theory!😻
 
 
 **Languages and Tools:**
