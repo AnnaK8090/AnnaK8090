@@ -21,7 +21,7 @@
 
 Hi, I'm Anna🙌, a Data Science Enthusiast currently working as a Sr Data Analyst / Busness Intelligence Analyst.❤✌
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="300" height="200" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="300" height="400" />
 
 
 **Talking about xyz:**
