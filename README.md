@@ -19,35 +19,24 @@
 
 <br />
 
-Hi, I'm Anna🙌, a Sr Data Analyst / Busness Intelligence Analyst working for a Manufacturing & Retail Company, Tech | AI | ML Enthusiast. 
-Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi, I'm Anna🙌, a Sr Data Analyst / Busness Intelligence Analyst working for a Retail Company, Tech | AI | ML Enthusiast. 
+Apart from that I love getting involved in Programming and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" />
 
 **Talking about xyz:**
 
-- 🔭 I’m currently a Sr Data Analyst.
-- 🌱 I’m currently learning A,B,C.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
+- 🌱 I’m currently learning Advanced Time Series Models.
+- 👯 Part of Data Analyst, Data Scientist Community.
+- ✨ I'm a huge fan of Data Visualization!✌✌✌
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annakolb/)
 - ⚡ Check out my recent [Blogs](https://medium.com/)
 - 📝[Portfolio](https://app.powerbi.com/view?r=eyJrIjoiZjlhMTUzN2ItY2E1NS00YzI3LWI5ZGEtZTY0ZDE1NjhmZGVmIiwidCI6IjZkOTI0YTZiLWVlOGEtNGIwZi1hYjVkLTZiYzkwOGQ0MDE3YiJ9)
-- ✨ I am a huge fan of Data Visualization!✌✌✌
 
-
-
-**Community**
-- 1
-- 2
-- 3
-- 4
-- 5
 
 **Languages and Tools:**
-
-
+<code><img height="20" src="https://https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
