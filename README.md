@@ -26,7 +26,7 @@ Hi, I'm Anna🙌, a Data Science Enthusiast currently working as a Sr Data Analy
 
 **Talking about xyz:**
 
-- 🌱 I’m currently learning **Advanced Time Series Models**.
+- 🌱
 - 👯 Part of Data Analyst, Data Scientist Community.
 - ✨ I'm a huge fan of Data Visualization and Data Journalism!✌
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annakolb/)
