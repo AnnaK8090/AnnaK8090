@@ -26,8 +26,7 @@ Hi, I'm Anna🙌, a Data Science Enthusiast currently working as a Sr Data Analy
 
 **Talking about xyz:**
 
-- 🌱
-- 👯 Part of Data Analyst, Data Scientist Community.
+- 👯 BI & Data Analyst, Data Scientist | ML | AI Enthusiast.
 - ✨ I'm a huge fan of Data Visualization and Data Journalism!✌
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annakolb/)
 - ⚡ Check out my [Data Viz Portfolio](https://app.powerbi.com/view?r=eyJrIjoiZjlhMTUzN2ItY2E1NS00YzI3LWI5ZGEtZTY0ZDE1NjhmZGVmIiwidCI6IjZkOTI0YTZiLWVlOGEtNGIwZi1hYjVkLTZiYzkwOGQ0MDE3YiJ9)
